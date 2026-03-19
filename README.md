@@ -20,9 +20,7 @@ If you use this software in your research, please include a link to the reposito
 ```bibtex
 @article{goering2026insta,
   author       = {Göring, Steve and Rao, Rakesh},
-  publisher    = {Elsevier},
   date         = {2026},
-  journaltitle = {Elsevier Signal Processing},
   note         = {in review},
   title        = {Instagram-like filters for AI-generated and real photos},
 }

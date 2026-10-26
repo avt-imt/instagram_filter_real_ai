@@ -26,6 +26,14 @@ The following software is required to run:
 
 It is recommended to run this tool in a virtual environment, e.g. create with `python3 -m venv venv && source venv/bin/activate`
 
+better:
+
+use uv to run the tool:
+
+```bash
+uv run imt.py --help 
+```
+
 ## Usage
 ```
 usage: imt.py [-h] [--cpu_count CPU_COUNT] [--report_file REPORT_FILE] image [image ...]
